@@ -1,1 +1,3 @@
-# Write your code here.
+def badge_marker(name)
+  puts "Hello, my name is #{name}"
+end
